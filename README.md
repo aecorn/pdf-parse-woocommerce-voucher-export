@@ -1,4 +1,4 @@
-# pdf-parse-woocommerce-voucher-export
+# Parse and analyze voucher-pdfs from woocommerce using Python and Pandas
 So, you recieved some pdfs with exports from the woocommerce voucher system and you need to extract some data...
 The need here was to analyze how much money was still in used, unused and expired giftcards.
 
